@@ -1,6 +1,4 @@
 ### Hi there, I'm Habibur Rahman 👋
-
-## I'm a Developer and Student!
 - 🌱 I’m currently learning MERN Stack Web Development
 
 ### Connect with me:
