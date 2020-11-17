@@ -1,5 +1,5 @@
 ### Hi there, I'm Habibur Rahman 👋
-- 🌱 I’m currently learning MERN Stack Web Development
+- 🌱 I’m Front-End Web Developer
 
 ### Connect with me:
 
