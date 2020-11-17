@@ -27,7 +27,7 @@
 
 <img align="left" alt="hrshainik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hrshainik&show_icons=true&hide_border=true" />
 
-[website]: https://hrshainik.github.io
+[website]: 
 [twitter]: https://twitter.com/hrsshainik
 [instagram]: https://instagram.com/hrsshainik
 [linkedin]: https://linkedin.com/in/hrsshainik
