@@ -1,12 +1,13 @@
 ### Hello! Welcome to my GitHub Profile👋
+- I'm currently learning fullstack web developement.
 
-### Connect with me:
+<!-- ### Connect with me:
 
 [<img align="left" alt="Habibur Rahman | Twiter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Habibur Rahman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Habibur Rahman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Habibur Rahman | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />[facebook]
-
+ -->
 <!-- <br />
 
 ### Languages and Tools:
@@ -22,11 +23,11 @@
 
 <!-- <br> -->
 
----
+<!-- --- -->
 
 <!-- <img align="left" alt="hrshainik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hrshainik&show_icons=true&hide_border=true" /> -->
-
+<!-- 
 [twitter]: https://twitter.com/hrsshainik
 [instagram]: https://instagram.com/traveloperhabib
 [linkedin]: https://linkedin.com/in/hrsshainik
-[facebook]: https://facebook.com/traveloperhabib
+[facebook]: https://facebook.com/traveloperhabib -->
