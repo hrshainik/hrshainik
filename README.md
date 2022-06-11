@@ -1,33 +1,45 @@
-### Hello! Welcome to my GitHub Profile👋
-- I'm currently learning fullstack web developement.
+<h1 align="center">
+  <b>Habibur Rahman</b>
+</h1>
 
-<!-- ### Connect with me:
+Hi! I'm Habibur Rahman, a student currently living in Dhaka, Bangladesh.
 
-[<img align="left" alt="Habibur Rahman | Twiter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Habibur Rahman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Habibur Rahman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Habibur Rahman | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />[facebook]
- -->
-<!-- <br />
+<br>
 
-### Languages and Tools:
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-c58545?style=for-the-badge&logo=javascript&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-React-d1a01f?style=for-the-badge&logo=react&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Next.js-98b982?style=for-the-badge&logo=next.js&logoColor=98b982&labelColor=282828">
+</div>
+</p>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> -->
 
-<!-- <br> -->
+<div align="center">
+  <a href="https://open.spotify.com/user/v14u63ni2lsj7lmeepyozgx35">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
 
-<!-- --- -->
+<!--
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  </a>
+</div>
+-->
 
-<!-- <img align="left" alt="hrshainik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hrshainik&show_icons=true&hide_border=true" /> -->
-<!-- 
-[twitter]: https://twitter.com/hrsshainik
-[instagram]: https://instagram.com/traveloperhabib
-[linkedin]: https://linkedin.com/in/hrsshainik
-[facebook]: https://facebook.com/traveloperhabib -->
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://hrshainik.me/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hrshainik&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hrshainik&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![Habibur Rahman' Activity Graph](https://activity-graph.herokuapp.com/graph?username=hrshainik&custom_title=Habibur%20Rahman's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://hrshainik.me)
+
+
