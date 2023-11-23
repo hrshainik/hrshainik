@@ -17,9 +17,9 @@
 
 ## Connect with me
 <p align="center">
-	<a href="mailto:hrsshainik@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:hrsshainik@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/hrshainik"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.hrshainik.me"><img src="https://img.shields.io/badge/Portfolio-%23181717.svg?style=plastic&logo=write.as&logoColor=white" alt="Instagram"/></a>
+	<a href="https://github.com/hrshainik"><img src="https://img.shields.io/badge/Portfolio-%23181717.svg?style=plastic&logo=write.as&logoColor=white" alt="Portfolio"/></a>
 	<a href="https://wa.me/+8801766215104"><img src="https://img.shields.io/badge/Whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/hrshainik/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/hrshainik/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
@@ -37,7 +37,7 @@
    </a>
    &emsp;
   <a href="https://www.typescriptlang.org/" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?style=plastic&logo=typescript&logoColor=black">
+     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?style=plastic&logo=typescript&logoColor=black">
    </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
@@ -61,15 +61,15 @@
    </a>
    &emsp;
   <a href="https://www.typescriptlang.org/" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?style=plastic&logo=typescript&logoColor=black">
+     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?style=plastic&logo=typescript&logoColor=black">
    </a>
    &emsp;
   <a href="https://reactjs.org/" target="_blank">
-     <img alt="JavaScript" src="https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=plastic&logo=react&logoColor=black">
+     <img alt="React" src="https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=plastic&logo=react&logoColor=black">
    </a>
    &emsp;
   <a href="https://nextjs.org/" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/Next.js%20-%23F7DF1E.svg?style=plastic&logo=next.js&logoColor=black">
+     <img alt="Next.js" src="https://img.shields.io/badge/Next.js%20-%23F7DF1E.svg?style=plastic&logo=next.js&logoColor=black">
    </a>
 </p>
 
