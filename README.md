@@ -101,6 +101,8 @@
  
 <p align="center">
   &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/macOS-000000?style=plastic&logo=apple&logoColor=white"></a>
+  &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
